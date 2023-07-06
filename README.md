@@ -14,6 +14,7 @@ This is a simple web application.
     composer install
     ```
 Run in Terminal on Project Directory: cp .env.example .env 
+
 php artisan key:generate
 
 3. Create Mysql database and fill database environments in .env.
