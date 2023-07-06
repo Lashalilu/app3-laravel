@@ -50,4 +50,5 @@ php artisan key:generate
     ```
 4. On the / directory you will see the form. When you will enter validate information it will redirect you to /list directory and you will be able to see User Data Table. Your record will not be displayed. You would need to activate your account via email.
 5. Again, you would need to activate the account. Open https://mailtrap.io/ log in and click Verify Email Address.
-6. After that you will see the record. 
+6. Refresh the page
+7. After that you will see the record. 
