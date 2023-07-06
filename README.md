@@ -13,6 +13,9 @@ This is a simple web application.
     ```bash
     composer install
     ```
+Run in Terminal on Project Directory: cp .env.example .env 
+php artisan key:generate
+
 3. Create Mysql database and fill database environments in .env.
 4. Run:
     ```bash
