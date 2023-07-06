@@ -31,6 +31,9 @@ php artisan key:generate
     ```bash
     php artisan queue:work
     ```
+    ```bash
+    php artisan serve
+    ```
 8. The application must be started on http://localhost:8000/
 
 ### About React JS project.
